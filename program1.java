@@ -16,7 +16,6 @@ r1 = (-b+(Math.sqrt(d)))/(2*a);
 r2 = (-b-(Math.sqrt(d)))/(2*a);
 System.out.println("roots are " +r1);
 System.out.println(+r2);
-
 }
 else if(d==0){
 System.out.println("roots are real and equal");
